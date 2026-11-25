@@ -1,0 +1,63 @@
+{
+  "regions": {
+    "europe": ["Europe", "#1f4e79", "#6ea8e0"],
+    "middle-east": ["Middle East", "#a8600f", "#e0a94f"],
+    "asia": ["Asia", "#a8321f", "#ef6a4a"],
+    "africa": ["Africa", "#1c6b4a", "#4fbf8b"],
+    "americas": ["Americas", "#5a3a86", "#a987e0"],
+    "oceania": ["Oceania", "#0d6070", "#45c2d6"],
+    "world": ["World", "#43403a", "#c9ced4"]
+  },
+  "leads": [
+    {"n": 1, "p": "STRAIT OF HORMUZ", "t": "IRAN", "fig": "3", "unit": "tankers set ablaze", "sub": "the IRGC says its mines did it; two ships had US air escort", "art": "mines", "mark": ["The claim", "unverified late on Monday"], "head": ["Iran says its mines set", "three tankers ablaze"], "deck": "The IRGC Navy's statement came late on Monday and was still unverified; Qatar's prime minister warned the region 'cannot withstand another escalation'.", "src": "Anadolu Agency · The Express Tribune"},
+    {"n": 2, "p": "TAIPEI", "t": "MARKETS", "fig": "9%", "unit": "the Taiex's close", "sub": "Seoul gains 7%, Tokyo 4%, as Huang returns to Nvidia", "art": "markets", "mark": ["The rebound", "a day after the AI rout"], "head": ["Asia roars back", "as Huang returns"], "deck": "Taiwan's Taiex surged 9% and TSMC hit its daily limit; Seoul's Kospi rose as much as 8% and Tokyo's Nikkei 225 climbed 5%.", "src": "Insider · Nikkei"},
+    {"n": 3, "p": "ZAPORIZHZHIA", "t": "WAR", "fig": "96", "unit": "drones fired overnight", "sub": "73 downed or jammed; a five-storey block torn open", "art": "drones", "mark": ["The toll", "two dead, 40 hurt"], "head": ["Russia fires 96 drones;", "Zaporizhzhia flats hit"], "deck": "Ukraine's air force says 73 of the drones were downed or jammed and 13 sites were struck by 08:00; a late-Monday strike killed two and hurt 40.", "src": "News search"}
+  ],
+  "cards": [
+    {"n": 4, "glyph": "bolt", "p": "ULLEUNG, SOUTH KOREA", "t": "DEFENCE", "d": "3 minutes", "h": "Russian jets trip a Korean alert", "b": "F-15Ks scrambled at 07:52; Seoul says no airspace was breached.", "s": "Yonhap"},
+    {"n": 5, "glyph": "probe", "p": "JIUQUAN, CHINA", "t": "SPACE", "d": "Shenzhou-24", "h": "Pakistan's first astronaut is named", "b": "Zeeshan Ali joins the crew due to launch on Wednesday.", "s": "Daily Pakistan"},
+    {"n": 6, "glyph": "cuffs", "p": "CANBERRA", "t": "TECH", "d": "5% of revenue", "h": "Australia ties tech fines to global revenue", "b": "A Labor-Greens 'digital duty of care' lets users sue platforms.", "s": "Associated Press"},
+    {"n": 7, "glyph": "burst", "p": "VILLAVICENCIO", "t": "SECURITY", "d": "Car bomb", "h": "A blast wrecks Colombia's state HQ", "b": "The Meta governor's office was hit a day before the peace deal turns ten.", "s": "BBC"},
+    {"n": 8, "glyph": "aid", "p": "KHAN YOUNIS", "t": "GAZA", "d": "3 killed", "h": "A drone strike hits a Gaza police post", "b": "The strike in Al-Mawasi also wounded five, a hospital source says.", "s": "Anadolu Agency"},
+    {"n": 9, "glyph": "ship", "p": "SINGAPORE", "t": "CHIPS", "d": "No backdoor", "h": "Singapore vows to uphold chip rules", "b": "Wong's pledge follows the US blacklisting of Megaspeed and six other firms.", "s": "Financial Times"},
+    {"n": 10, "glyph": "pulse", "p": "TAPLEJUNG, NEPAL", "t": "DISASTER", "d": "Magnitude 5.6", "h": "A quake jolts eastern Nepal", "b": "It struck near the Tibet border and was felt in India and Bhutan.", "s": "News.az"},
+    {"n": 11, "glyph": "talks", "p": "BRUSSELS", "t": "MIGRATION", "d": "1,283 moved", "h": "The EU pact falls far short of its plan", "b": "First-year relocations were meant to reach 21,000; Hungary and Slovakia opt out.", "s": "Euronews"},
+    {"n": 12, "glyph": "burst", "p": "JOHANNESBURG", "t": "WEATHER", "d": "Flood alert", "h": "Gauteng braces for flash floods", "b": "The weather service warns through Tuesday evening.", "s": "News search"},
+    {"n": 13, "glyph": "bat", "p": "LANDOVER, USA", "t": "FOOTBALL", "d": "22–20", "h": "The Commanders stun the Bengals", "b": "Stevens' 26-yard field goal as time expired settled Monday night.", "s": "DAZN"}
+  ],
+  "briefs": [
+    {"n": 14, "p": "Kyiv", "t": "Western chips in a Russian drone were 'made in 2025'", "s": "Kyiv Independent"},
+    {"n": 15, "p": "London", "t": "Champions League, matchday 5: Arsenal 3-1 Atlético", "s": "News search"},
+    {"n": 16, "p": "Paris", "t": "Notre-Dame's bells return after the 2019 fire", "s": "News search"},
+    {"n": 17, "p": "Vatican", "t": "Francis's diary tells of seeing the devil", "s": "BBC"},
+    {"n": 18, "p": "Tehran", "t": "Iran sets seven conditions before US talks", "s": "Times Now"},
+    {"n": 19, "p": "Greece", "t": "31,500 wounded troops in care, 62% psychological", "s": "Times of Israel"},
+    {"n": 20, "p": "Zambia", "t": "a Nigeria road crash kills 15", "s": "Daily Post Nigeria"},
+    {"n": 23, "p": "Dakar", "t": "the AFCON title ruling is due today", "s": "BBC"},
+    {"n": 24, "p": "Taronga", "t": "a cyclone relief ship sails for Pukapuka", "s": "News search"},
+    {"n": 25, "p": "Pago Pago", "t": "the US leases seabed to a miner", "s": "Mother Jones"},
+    {"n": 26, "p": "Tehran", "t": "Iran probes a ship hijack", "s": "International Business Times"},
+    {"n": 27, "p": "New York", "t": "'Carême' wins the Indie Emmy", "s": "News search"},
+    {"n": 28, "p": "Brasília", "t": "the budget package passes 353-128", "s": "News search"},
+    {"n": 29, "p": "Hanoi", "t": "the WHO chief tours hospitals", "s": "News search"},
+    {"n": 30, "p": "Worldwide", "t": "the full supermoon peaks at 14:53 UTC", "s": "News search"}
+  ],
+  "figures": [
+    {"fig": "3", "cap": "tankers set ablaze by mines in Hormuz", "s": "Anadolu Agency"},
+    {"fig": "9%", "cap": "the Taiex's close as chips rebounded", "s": "Insider"},
+    {"fig": "96", "cap": "drones Russia fired at Ukraine overnight", "s": "News search"},
+    {"fig": "5%", "cap": "the cap on tech fines, as a share of global revenue", "s": "Associated Press"},
+    {"fig": "1,283", "cap": "migrants relocated in the EU pact's first year", "s": "Euronews"},
+    {"fig": "22–20", "cap": "the Commanders' win over the Bengals", "s": "DAZN"},
+    {"fig": "31,500", "cap": "wounded Israeli troops in rehabilitation care", "s": "Times of Israel"},
+    {"fig": "5.6", "cap": "the magnitude of the quake in eastern Nepal", "s": "News.az"},
+    {"fig": "353", "cap": "votes for Brazil's budget package", "s": "News search"},
+    {"fig": "6", "cap": "million dollars bid for the seabed leases", "s": "Mother Jones"}
+  ],
+  "labels": {
+    "1": {"label": "HORMUZ", "dx": -6, "dy": -6, "anchor": "end"},
+    "2": {"label": "TAIPEI", "dx": 6, "dy": -5, "anchor": ""},
+    "3": {"label": "ZAPORIZHZHIA", "dx": 8, "dy": 1.5, "anchor": ""}
+  },
+  "claims": []
+}
